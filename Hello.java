@@ -5,5 +5,6 @@ class Hello{
  //       System.out.print("Enter your name : ");
 //        String a =s.nextLine();
         System.out.println("Your name is : Gajjender Rathore");
+        System.out.println("This sentence is used to check automatically build of job when anything changes in github.");
     }
 }
